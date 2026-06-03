@@ -50,8 +50,8 @@ text-align: center;
 text-align: center;
 }
 
-.estudante{
-background-image: background-color(#020B1E);
+.estudante{ 
+background-color: #020B1E;
 padding: 24px 0;
 }
 
@@ -75,11 +75,7 @@ display:block;
 .escola-titulo{
 padding: 50px;
 text-align: center;
-color:#020B1E
-}
-
-.escola-titulo{
-font-family: "Poppins", sans-serif;
+color:#000000
 }
 
 .logo_rodape{
