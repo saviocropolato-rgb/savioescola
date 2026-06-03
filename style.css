@@ -49,13 +49,7 @@ text-align: center;
 .estudante-nome{
 text-align: center;
 }
-.estudante-imagem{
-width: 120px;
-}
-.estudante-icone{
-width: 38px;
-padding: 4px 8px;
-}
+
 .estudante{
 background-image: background-color(#020B1E);
 padding: 24px 0;
@@ -82,7 +76,10 @@ display:block;
 padding: 50px;
 text-align: center;
 color:#020B1E
-font-family: Arial, sans-serif;
+}
+
+.escola-titulo{
+font-family: "Poppins", sans-serif;
 }
 
 .logo_rodape{
