@@ -81,7 +81,10 @@ display:block;
 .escola-titulo{
 padding: 50px;
 text-align: center;
+color:#020B1E
+font-family: Arial, sans-serif;
 }
+
 .logo_rodape{
 height: 80px;
 padding: 12px 0;
